@@ -8,6 +8,7 @@ I am currently a post-doc in the [KRISS Hybrid Quantum Systems team](https://www
 
 I have done my PhD in [CULTure lab](https://absoluteze.ro/).
 
+[CV](/assets/CV.pdf)
 
 ---
 

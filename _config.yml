@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jinhoon Jeong 
-email: jinhoonjeong.w@example.com
+email: jinhoonjeong.w@gmail.com
 description: Research website
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jinhoonjeong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username: jinhoonjeong 
 
 # Build settings
